@@ -10,4 +10,4 @@ Pygments==2.11.2
 pylint==2.17.4
 pylint-django==2.5.0
 python-dateutil==2.8.2
-tox==3.24.5
+tox==4.9.0
